@@ -84,3 +84,8 @@ def totalConsonants(string):
 string = "abc de"
 print(totalConsonants(string)) 
 
+def recursiveTotalConsonants(string):
+    #Your code here.
+    
+    
+
